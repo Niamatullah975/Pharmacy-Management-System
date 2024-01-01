@@ -1,0 +1,32 @@
+.tabeditbtn,.tabdeletebtn{
+    width:40%;
+    height: 30px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+}
+.tabeditbtn{
+    background-color: royalblue;
+}
+.tabeditbtn:hover{
+    background-color: #fff;
+    color: royalblue;
+    border: 1px solid blue;
+    padding: 4px;
+    box-shadow: 2px 3px 1px gray;
+}
+.tabdeletebtn{
+    background-color: red;
+}
+.tabdeletebtn:hover{
+    background-color: #fff;
+    color: red;
+    border: 1px solid red;
+    padding: 4px;
+    box-shadow: 2px 3px 1px gray;
+}
+
+.view{
+    height: auto;
+}

@@ -1,0 +1,21 @@
+.view{
+    height:370px;
+    width: auto;
+}
+.view th{
+    padding: 10px;
+}
+.tabdeletebtn{
+background-color: rgb(190,10,10);
+border: none;
+border-radius: 5px;
+padding:10px;
+color: #fff;
+}
+.tabdeletebtn:hover{
+    background-color: #fff;
+    color: rgb(190,10,10);
+    border:1px solid red;
+    padding: 9px;
+    box-shadow: 2px 3px 1px gray;
+}

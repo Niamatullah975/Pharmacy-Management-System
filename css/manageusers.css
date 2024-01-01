@@ -1,0 +1,24 @@
+.addbtn, .deletebtn{
+    padding: 10px;
+    background-color:rgb(49, 49, 252);
+    width: 100px;
+    border-top-left-radius:4px;
+    border-top-right-radius:4px;
+    border: none;
+    margin-left: 5px;
+
+}
+.manageusersbtn hr{
+    margin-top: 0px;
+}
+.addbtn{
+    margin-left: 20px;
+}
+.deletebtn{
+    width: 130px;
+    background-color: rgb(255, 81, 0);
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}

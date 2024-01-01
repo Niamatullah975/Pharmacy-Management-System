@@ -1,0 +1,28 @@
+.view{
+    height: 350px;
+    width: 98%;
+    margin-left:5PX;
+}
+.addsales_tab{
+    height: 318px;
+}
+.addsales_tab tr th,td{
+    padding: 5px;
+    font-size: 12px;
+}
+.main_tab tr td a{
+    font-size: 16px;
+    padding: 20px 23px;
+    margin: 0px;
+}
+.printbtn{
+    color:#fff;
+    background-color: rgb(209, 6, 6);
+    border: none;
+    border-radius: 4px;
+    padding: 7px;
+    float: right;
+}
+.footer{
+    clear: both;
+}
